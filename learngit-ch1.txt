@@ -1,0 +1,7 @@
+lear git chapter1
+1. Download and install git;
+2. mkdir learngit;
+3. cd learngit;
+4. create a file "readme.txt" under learngit;
+5. git add readme.txt；
+6. git commit -m "add readme.txt";
